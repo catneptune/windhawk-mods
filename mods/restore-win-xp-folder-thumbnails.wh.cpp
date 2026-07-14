@@ -1,8 +1,8 @@
 // ==WindhawkMod==
 // @id              restore-win-xp-folder-thumbnails
-// @name            Windows XP Folder Thumbnails (Public Alpha 3)
+// @name            Windows XP Folder Thumbnails
 // @description     Makes the generated folder thumbnails in Windows Explorer look like they did in Windows XP.
-// @version         0.9.1
+// @version         1.0.0
 // @author          neptune
 // @include         explorer.exe
 // @compilerOptions -lgdi32 -lshlwapi -lole32 -lgdi32 -lmsimg32 -loleaut32 -luuid -lpropsys
@@ -14,10 +14,6 @@
 # Windows XP Folder Thumbnails
 
 Brings back the 4 preview folder thumbnails from Windows XP.
-
-**⚠ Warning**  
-This is a preliminary beta release. It will likely have some bugs. If you encounter any bugs, please report them in the
-thread on the ExplorerEx Discord server or to me privately at `loveofleytoo` on Discord or `pumpkinpielemon@gmail.com`.
 
 ## Setup
 
@@ -38,6 +34,7 @@ this easily with the "Clear Thumbnail/Icon Cache" tool provided by [NTMU](//get-
 - [aubymori](//github.com/aubymori) for preliminary testing and development help.
 - [AllieTheFox](//github.com/AllieTheFox) for prerelease testing and QA.
 - Rain for prerelease testing and QA.
+- Joshua (jb8h on Discord)
 */
 // ==/WindhawkModReadme==
 

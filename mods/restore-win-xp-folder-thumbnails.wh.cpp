@@ -36,6 +36,7 @@ this easily with the "Clear Thumbnail/Icon Cache" tool provided by [NTMU](//get-
 - Rain for prerelease testing and QA.
 - Joshua (jb8h on Discord)
 - Vruh (vruh2 github.com/kfh83) for his michael jackson impression that greatly inspired the creation of this modr
+- Geography nerd testing
 */
 // ==/WindhawkModReadme==
 
